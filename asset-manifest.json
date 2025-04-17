@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-designer/static/css/main.fde7d4ce.css",
+    "main.js": "/AI-designer/static/js/main.9bff17c1.js",
+    "static/js/453.2b19d795.chunk.js": "/AI-designer/static/js/453.2b19d795.chunk.js",
+    "index.html": "/AI-designer/index.html",
+    "main.fde7d4ce.css.map": "/AI-designer/static/css/main.fde7d4ce.css.map",
+    "main.9bff17c1.js.map": "/AI-designer/static/js/main.9bff17c1.js.map",
+    "453.2b19d795.chunk.js.map": "/AI-designer/static/js/453.2b19d795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fde7d4ce.css",
+    "static/js/main.9bff17c1.js"
+  ]
+}
